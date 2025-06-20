@@ -11,3 +11,10 @@ body, html {
 .gallery img {
     width: 100%;
 }
+
+h4 {
+    color: cornflowerblue;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 1.5rem;
+}
