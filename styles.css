@@ -12,11 +12,16 @@ body, html {
     width: 100%;
 }
 
-h4 {
+h4, .about-title{
     color: cornflowerblue;
     font-family: fantasy;
     font-style: italic;
     font-size: 1.5rem;
+}
+
+ .about-title {
+   display: flex;
+   justify-content: center;
 }
 
 #menu{
